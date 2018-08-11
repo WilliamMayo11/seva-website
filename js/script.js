@@ -1,5 +1,7 @@
 'use strict';
 
+// comments
+
 $(document).ready(() => {
   console.log('script.js running');
 
